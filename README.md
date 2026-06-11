@@ -30,4 +30,5 @@ As I keep learning, I am adding more projects that use Python, JavaScript, React
 📫 Connect
 
 - LinkedIn: www.linkedin.com/in/adesoji-adeyemo-9b0717191
+- Gmail: timothysoji1@gmail.com
 - GitHub: You’re already here 🙂
