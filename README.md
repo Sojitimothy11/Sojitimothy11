@@ -1,36 +1,33 @@
-# Hi, I’m Adesoji Adeyemo 👋
+Hi, I’m Adesoji Adeyemo 👋
 
-I am a **healthcare-focused software engineer** with a strong emphasis on **problem solving, Python, SQL, and React**, intentionally aligning my skills toward **NHS digital and health informatics systems**.
+I am a junior software engineer focused on building reliable, data-driven applications using Python, JavaScript, React, and SQL.
 
-## 🎯 Professional Focus
-- Building **secure, reliable, and data-driven applications**
-- Working with **structured and semi-structured data**
-- Designing systems with **data integrity, auditability, and governance** in mind
-- Developing internal tools, dashboards, and backend logic rather than consumer-style apps
+🎯 Professional Focus
 
-## 🛠 Core Skills
-- **Problem Solving & Algorithms**
-- **Python** (backend logic, data processing, automation)
-- **SQL** (relational design, joins, reporting queries)
-- **NoSQL Concepts** (appropriate use cases, trade-offs)
-- **React** (forms, dashboards, accessible interfaces)
-- Git & Version Control
+- Building clean, maintainable applications and scripts
+- Working with structured data and APIs
+- Designing simple, usable interfaces and dashboards
+- Learning modern development practices (version control, testing, code reviews)
+
+🛠 Core Skills
+
+- Problem solving & algorithms
+- Python (backend logic, scripts, data processing)
+- JavaScript (frontend behaviour and interactivity)
+- React ( components, state, dashboards)
+- SQL (queries, joins, reporting)
+- HTML & CSS
+- Git & GitHub
 - REST APIs
+- Vibe Coding
 
-## 🏥 Healthcare & NHS Alignment
-I am intentionally preparing for **NHS digital, health informatics, and clinical systems roles**, with awareness of:
-- Data protection and confidentiality
-- Role-based access control
-- Audit trails and system reliability
-- Clinical-style data structures
+📂 Current Project.
 
-## 📂 Projects (In Progress)
-- Patient Management System (Python, SQL)
-- Healthcare Analytics Dashboard
-- Data Cleaning & Reporting Automation Scripts
+- Tutor Management System – group web project using HTML/CSS where I contributed to layout, structure, and basic interactivity.
 
-Each project is documented with **design decisions and healthcare relevance**.
+As I keep learning, I am adding more projects that use Python, JavaScript, React, and SQL.
 
-## 📫 Connect
+📫 Connect
+
 - LinkedIn: www.linkedin.com/in/adesoji-adeyemo-9b0717191
-- GitHub: You’re already here
+- GitHub: You’re already here 🙂
