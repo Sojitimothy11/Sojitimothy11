@@ -23,7 +23,7 @@ I am a junior software engineer focused on building reliable, data-driven applic
 
 📂 Current Project.
 
-- Tutor Management System – group web project using HTML/CSS where I contributed to layout, structure, and basic interactivity.
+- Tutor Management System – group web project using HTML,CSS and Python where I contributed to layout, structure, and basic interactivity and currently working on the backend.
 
 As I keep learning, I am adding more projects that use Python, JavaScript, React, and SQL.
 
